@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="98c4dd9f-915e-4336-aaf0-60dae56217e9" name="ansible-lamp2" url="http://35.175.240.101">
+        <fileTransfer host="35.175.240.101" port="22" privateKey="C:\Users\Rosh\Downloads\ansiblertbnw.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
